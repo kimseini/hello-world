@@ -8,5 +8,8 @@ public class HelloWorld {
 		System.out.printf("%d\n",10); // \n : 줄변경
 		System.out.print("안녕"); // 줄변경 없는 출력
 		System.out.println(); // 줄변경
+		
+		System.out.println("소스추가"); // 소스추가
+		
 	}
 }
